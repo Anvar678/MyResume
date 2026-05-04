@@ -41,10 +41,14 @@ Email: anvar.yangirov@gmail.com
 - Работал на стыке backend и ML, обеспечивая связность всей платформы как единой прикладной системы.
 
 **Демонстрация:**
-- [Видео 1 — сайт проекта HandTalk](./Сайт.mp4)
-- [Видео 2 — демонстрация модели видео → текст](./модель.mp4)
 
----
+**Видео 1 — сайт проекта HandTalk**
+
+<video src="https://github.com/user-attachments/assets/ССЫЛКА_НА_ПЕРВОЕ_ВИДЕО" controls width="700"></video>
+
+**Видео 2 — демонстрация модели видео → текст**
+
+<video src="https://github.com/user-attachments/assets/ССЫЛКА_НА_ВТОРОЕ_ВИДЕО" controls width="700"></video>
 
 ### Continuum Memory — архитектура непрерывной памяти для LLM и диалоговых систем
 
